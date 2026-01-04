@@ -1,5 +1,9 @@
 # Content-Based Movie Recommendation System using NLP
 
+---
+
+**Live Demo (Streamlit App):** https://sufiyan-tejani-customer-churn-prediction-app-upt8yw.streamlit.app/ 
+
 ## Overview
 This project implements a **content-based movie recommendation system** that suggests similar movies based on textual metadata such as genres, keywords, cast, and overview. Natural Language Processing (NLP) techniques are used to convert text data into numerical representations, enabling similarity-based recommendations.
 
